@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65f8f285-be72-4f28-b5b4-8783d4f08a9a" name="Default" comment="" />
+    <list default="true" id="65f8f285-be72-4f28-b5b4-8783d4f08a9a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +29,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-            </state>
+            <state relative-caret-position="-286" />
           </provider>
         </entry>
       </file>
@@ -65,10 +66,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
-    <option name="y" value="33" />
+    <option name="x" value="85" />
+    <option name="y" value="21" />
     <option name="width" value="1224" />
-    <option name="height" value="677" />
+    <option name="height" value="659" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -83,6 +84,11 @@
             <path>
               <item name="composer" type="b2602c69:ProjectViewProjectNode" />
               <item name="composer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="composer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="composer" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,15 +125,30 @@
       <option name="presentableId" value="Default" />
       <updated>1536118651719</updated>
       <workItem from="1536118653379" duration="18089000" />
-      <workItem from="1536557105007" duration="12335000" />
+      <workItem from="1536557105007" duration="14461000" />
     </task>
+    <task id="LOCAL-00001" summary="xin">
+      <created>1536634521404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536634521404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xin">
+      <created>1536651330986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536651330986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30424000" />
+    <option name="totallyTimeSpent" value="32550000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="17" width="1224" height="677" extended-state="0" />
+    <frame x="85" y="21" width="1224" height="659" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25429553" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -138,7 +159,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.55514705" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6501901" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -176,6 +197,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xin" />
+    <option name="LAST_COMMIT_MESSAGE" value="xin" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -263,9 +288,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
+        <state relative-caret-position="-286" />
       </provider>
     </entry>
   </component>

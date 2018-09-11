@@ -21,3 +21,4 @@ $job = $pheanstalk->watch('abc')->ignore('default')->reserve();
 
 echo $job->getData(),$job->getId();//die;
 $pheanstalk->delete($job);
+
