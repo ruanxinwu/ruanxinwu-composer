@@ -24,5 +24,3 @@ echo 23;
 echo $job->getData(),$job->getId();//die;
 $pheanstalk->delete($job);
 
-
-d
