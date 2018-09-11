@@ -1,0 +1,7 @@
+{
+    "require": {
+        "monolog/monolog": "^1.23",
+        "ramsey/uuid": "^3.7",
+        "pda/pheanstalk": "^3.1"
+    }
+}
