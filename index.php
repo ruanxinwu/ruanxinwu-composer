@@ -19,6 +19,8 @@ $pheanstalk = new Pheanstalk('123.207.164.102');
 //$pheanstalk->useTube('abc')->put(654321);die;
 $job = $pheanstalk->watch('abc')->ignore('default')->reserve();
 
+echo 23;
+
 echo $job->getData(),$job->getId();//die;
 $pheanstalk->delete($job);
 
