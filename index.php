@@ -22,3 +22,4 @@ $job = $pheanstalk->watch('abc')->ignore('default')->reserve();
 echo $job->getData(),$job->getId();//die;
 $pheanstalk->delete($job);
 //echo $job->getData(),$job->getId();
+// 我是王斑但啊
